@@ -1,3 +1,19 @@
+.carousel-control-prev,
+.carousel-control-next {
+  max-width: 50px !important;
+}
+
+.captions {
+  top: 0px;
+  max-height: 100px;
+}
+
+.clip {
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 .App {
   text-align: center;
 }
